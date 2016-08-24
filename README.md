@@ -1,6 +1,7 @@
 # The Rock Shop
 
-A two player game of Rock-Paper-Scissors.
+Watch 30-second [demo] (https://www.youtube.com/watch?v=X1QTUFawhJE).
+This is an app where two players can play Rock-Paper-Scissors games and see live game stats.
 
 Created with: React, React Router, SocketIO, Express, SQLite3 w/ KNEX, Browserify, Skeleton.css
 
